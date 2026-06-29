@@ -41,19 +41,6 @@ The tools I tend to reach for when shipping:
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=madhuys&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Madhu's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhuys&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhuys&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=madhuys&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
-</div>
-
----
-
 ### 🌱 Future Vision & Social Impact: Autistree
 
 Outside of the platforms, something I care about a lot is trying to leave things a little better than I found them.
@@ -66,21 +53,28 @@ I'm planning to start **Autistree**, a non-profit focused on individuals on the 
 
 #### 💻 Featured Public Repositories
 
-<p align="left">
-  <a href="https://github.com/madhuys/PolyModelStudio">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=madhuys&repo=PolyModelStudio&hide_border=true&theme=tokyonight" alt="PolyModelStudio" />
-  </a>
-  <a href="https://github.com/madhuys/gitscout">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=madhuys&repo=gitscout&hide_border=true&theme=tokyonight" alt="gitscout" />
-  </a>
-  <a href="https://github.com/madhuys/OpenQuery-AI">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=madhuys&repo=OpenQuery-AI&hide_border=true&theme=tokyonight" alt="OpenQuery-AI" />
-  </a>
-</p>
-
-- 🧰 **[PolyModelStudio](https://github.com/madhuys/PolyModelStudio)**: a multi-cloud LLM payload workbench for building, running, and benchmarking models side by side (TypeScript, React 18, Vite, Express.js).
-- 🛡️ **[gitscout](https://github.com/madhuys/gitscout)**: real-time GitHub secret reconnaissance that watches public event streams to catch leaked tokens and security risks as they happen.
-- 🔍 **[OpenQuery-AI](https://github.com/madhuys/OpenQuery-AI)**: provider-agnostic web search, content extraction, and NLP analysis, with multi-layer SQLite caching (FastAPI, Streamlit).
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🧰 <a href="https://github.com/madhuys/PolyModelStudio">PolyModelStudio</a></h4>
+      <img src="https://img.shields.io/github/languages/top/madhuys/PolyModelStudio?style=flat-square&color=blue"/><br/><br/>
+      <p>Multi-cloud LLM payload workbench for building, running, and benchmarking models side by side.</p>
+      <small><b>Stack:</b> TypeScript, React 18, Vite, Express</small>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🛡️ <a href="https://github.com/madhuys/gitscout">gitscout</a></h4>
+      <img src="https://img.shields.io/github/languages/top/madhuys/gitscout?style=flat-square&color=green"/><br/><br/>
+      <p>Real-time GitHub secret reconnaissance watching public event streams to catch leaked tokens.</p>
+      <small><b>Stack:</b> Python, GitHub REST API, Regex</small>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🔍 <a href="https://github.com/madhuys/OpenQuery-AI">OpenQuery-AI</a></h4>
+      <img src="https://img.shields.io/github/languages/top/madhuys/OpenQuery-AI?style=flat-square&color=teal"/><br/><br/>
+      <p>Provider-agnostic web search, content extraction, and NLP analysis with SQLite caching.</p>
+      <small><b>Stack:</b> FastAPI, Streamlit, SQLite</small>
+    </td>
+  </tr>
+</table>
 
 #### 🏛️ Enterprise & Ecosystem Platforms
 
