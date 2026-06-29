@@ -8,6 +8,8 @@
     <a href="mailto:ys.madhu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <img src="https://komarev.com/ghpvc/?username=madhuys&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
   </p>
+  <p><sub>⚠️ <b>Self-Reference Note:</b> This is a low-effort cover page. I fed an AI a bunch of random notes and history, and this shiny profile popped out. Classic <b>SISO</b> (Shit In, Shit Out). Enjoy the AI polish! 🤖</sub></p>
+
 </div>
 
 ---
