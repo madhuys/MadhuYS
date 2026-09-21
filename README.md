@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Madhu 👋</h1>
-  <p><b>Builder • Platform Architect</b></p>
+  <p><b>Head of Engineering & AI • Platform Architect</b></p>
   <p><i>"I'd rather fix the 3 a.m. bug and get the fundamentals right than talk about it."</i></p>
 
   <p>
@@ -8,8 +8,6 @@
     <a href="mailto:ys.madhu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <img src="https://komarev.com/ghpvc/?username=madhuys&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
   </p>
-  <p><sub>⚠️ <b>Self-Reference Note:</b> This is a low-effort cover page. I fed an AI a bunch of random notes and history, and this shiny profile popped out. Classic <b>SISO</b> (Shit In, Shit Out). Enjoy the AI polish! 🤖</sub></p>
-
 </div>
 
 ---
@@ -80,11 +78,13 @@ I'm planning to start **Autistree**, a non-profit focused on individuals on the 
 
 | Platform | What it is |
 |---|---|
-| 🧠 **[ALFIN](https://gftn.co/alfin)** | A verifiable AI subject-matter-expertise and research engine for the global financial ecosystem. Launched at Singapore Fintech Festival (SFF) 2025 at GFTN. |
-| 📋 **[Board.Vision](https://www.board.vision)** | A digital board management portal in Singapore, used by 280+ enterprises and listed companies. |
-| 🤝 **[Meetings.Vision](https://www.meetings.vision)** | An online AGM platform, among Singapore's first, built in response to the COVID-19 pandemic. |
-| 🌐 **Proxtera Meta-Hub** | Global B2B infrastructure connecting SME marketplaces, trade services, and financial tools. |
-| ✍️ **SmartSign.Vision & Perks.Vision** | Enterprise SaaS for corporate governance, digital signatures, and employee engagement. |
+| 🧠 **[ALFIN](https://gftn.co/alfin)** | Verifiable AI research and multi-agent subject-matter-expertise engine for the global financial ecosystem (GFTN). |
+| ⚡ **ALFIN Signals** | Low-latency real-time streaming AI engine detecting live market shifts, macro indicators, and regulatory intelligence. |
+| ⚛️ **Q-FINEX** | Evidence-based benchmarking platform evaluating quantum, hybrid, and classical algorithms for high-complexity financial modeling. |
+| 📋 **[Board.Vision](https://www.board.vision)** | Singapore’s premier digital board management portal, used by 280+ enterprises and listed corporate boards. |
+| 🤝 **[Meetings.Vision](https://www.meetings.vision)** | Singapore’s first compliant online AGM platform, built in rapid response to the COVID-19 lockdown mandates. |
+| 🌐 **Proxtera Meta-Hub** | Global B2B digital infrastructure connecting SME marketplaces, trade services, and financial tools across APAC, Africa, and Middle East. |
+| ✍️ **SmartSign.Vision & Perks.Vision** | Enterprise SaaS suites for corporate governance, digital signatures, and employee engagement. |
 
 ---
 
@@ -95,19 +95,19 @@ I'm planning to start **Autistree**, a non-profit focused on individuals on the 
 
 A few reflections that shape how I think about engineering, innovation, and my own work:
 
-**1. Innovation Ethos vs. Institutional Scale**
+**1. Innovation Ethos vs. Institutional Scale**  
 Big organizations bring reach, and small teams bring speed. I'm drawn to the startup ethos of staying close to the work and shipping value rather than getting slowed down by process.
 
-**2. Building vs. Bluffing**
+**2. Building vs. Bluffing**  
 With so many AI wrappers and buzzwords around, I try to keep myself honest: understand what's under the hood, pay attention to the edge cases that fail, and care about whether the thing is actually reliable.
 
-**3. Building Enablers & Infrastructure**
+**3. Building Enablers & Infrastructure**  
 A lot of my work is platforms that help *others* get their jobs done: governance tools like Board.Vision, market hubs at Proxtera, ecosystem AI at GFTN. I find good infrastructure quietly satisfying to build.
 
-**4. Staying Hands-On**
+**4. Staying Hands-On**  
 However far the work moves toward strategy and architecture, I want to keep the hands-on habits. Staying grounded in the technical details is what keeps me honest about what's really going on.
 
-**5. Action Over Commentary**
+**5. Action Over Commentary**  
 Building is generative. I'd rather show what I think by shipping a solution and solving the hard part than by defending an idea on paper.
 
 </details>
